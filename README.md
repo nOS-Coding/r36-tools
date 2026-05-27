@@ -1,3 +1,5 @@
+
+<img width="2000" height="2000" alt="logo" src="https://github.com/user-attachments/assets/db396868-0b30-4a51-aeb2-3f67088ce09f" />
 # R36-tools
 
 Three utilities for dealing with R36 handhelds, bundled into one script. Runs on macOS and Linux.
