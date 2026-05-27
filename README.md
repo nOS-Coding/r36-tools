@@ -1,6 +1,6 @@
-# r36s-tools
+# R36-tools
 
-Three macOS utilities for dealing with R36S handheld SD cards, bundled into one script.
+Three UNIX utilities for dealing with R36S handheld SD cards, bundled into one script.
 
 ## What it does
 
